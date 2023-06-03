@@ -15,14 +15,16 @@ echo ''
 read -p 'Find What? ' response
 echo ''
 
+if [[ $response = "q" ]]; then
+exit
+fi
+
 echo -e "${INT}INTERNAL${REG}"
 cd '/storage/emulated/0/'
 find . -iname "*$response*" 2>/dev/null
-find . -iname "$response" 2>/dev/null
 #replace 668B-CC32 with the name of your sdcard
 echo -e "${SDCARD}EXTERNAL${REG}"
 cd '/storage/668B-CC32/'
 find . -iname "*$response*" 2>/dev/null
-find . -iname "$response" 2>/dev/null
 
 done
