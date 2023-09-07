@@ -1,6 +1,6 @@
 # Search-Everything-Script-Android-Termux<br><br>
 Find any file(s) on android with termux (both internal and sdcard)<br><br>
-Replace the 8 letter/digit external storage location with your own<br>
+Script finds name/id of the sdcard automatically. Simply run this command once if you havent already: termux-setup-storage and say "yes" <br>
 If permissions arent set run: chmod 777 searchall.sh and chmod +x searchall.sh<br>
 Run the command: bash searchall.sh<br>
 Enter 'q' to quit<br><br>
