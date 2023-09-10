@@ -1,7 +1,7 @@
 #!/bin/bash
 #Author: Alex Terranova 2023
-#TITLE: Search All v2.0x auto
-# AT Widget
+#TITLE: Search All v3.0x auto
+
 response=''
 INT='\033[0;31m'
 SDCARD='\033[0;32m'
@@ -24,15 +24,14 @@ echo -e "${INT}INTERNAL > $response${REG}"
 echo ''
 cd '/storage/emulated/0/'
 InternalOut="$(find . -iname "*$response*" 2>/dev/null)"
-echo -e "${InternalOut//$'\n'/"\n\n${INT}***${REG}\n\n"}"
+echo -e "${InternalOut//$'\n'/"\n\n${INT}---${REG}\n\n"}"
 
-#replace 668B-CC32 with the name of your sdcard
+
 echo ''
 echo -e "${SDCARD}EXTERNAL > $response${REG}"
 echo ''
 
 cd ~/storage
-#player_status="$(playerctl -l 2>&1)"
 string="$(ls -la -l 2>&1)"
 
 searchstringbefore="/Android/"
@@ -48,5 +47,5 @@ sdcardpath="/storage/$temp2"
 
 cd $sdcardpath
 ExternalOut="$(find . -iname "*$response*" 2>/dev/null)"
-echo -e "${ExternalOut//$'\n'/"\n\n${SDCARD}***${REG}\n\n"}"
+echo -e "${ExternalOut//$'\n'/"\n\n${SDCARD}---${REG}\n\n"}"
 done
