@@ -9,4 +9,7 @@ chmod 777 searchall3.sh <br>
 chmod +x searchall3.sh<br><br>
 Run command: bash searchall3.sh<br><br>
 Enter 'q' to quit<br><br>
-![Screenshot_20230603-122618](https://github.com/lex81/Search-Everything-Script-Android-Termux/assets/68161611/5a6f44fd-3378-46eb-ae3d-26baa850e0c0)
+
+
+![Screenshot_20230910-162132](https://github.com/lexterror/Search-Everything-Script-Android-Termux/assets/16135535/72aa9ddc-2df4-496b-9576-eca67e2a5d29)
+
