@@ -5,9 +5,9 @@ Simply run this command once if you havent already: <br><br>
 termux-setup-storage <br><br>
 and say "yes" <br>
 If permissions arent set run: <br><br>
-chmod 777 searchall3.sh <br>
-chmod +x searchall3.sh<br><br>
-Run command: bash searchall3.sh<br><br>
+chmod 777 searchall4.sh <br>
+chmod +x searchall4.sh<br><br>
+Run command: bash searchall4.sh<br><br>
 Enter 'q' to quit<br><br>
 
 
