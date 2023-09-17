@@ -10,6 +10,4 @@ chmod +x searchall4.sh<br><br>
 Run command: bash searchall4.sh<br><br>
 Enter 'q' to quit<br><br>
 
-
-![Screenshot_20230910-162132](https://github.com/lexterror/Search-Everything-Script-Android-Termux/assets/16135535/72aa9ddc-2df4-496b-9576-eca67e2a5d29)
-
+![Screenshot_20230917-124924](https://github.com/lexterror/Search-Everything-Script-Android-Termux/assets/16135535/fb4c5a91-b246-4180-ab6a-270c00febaa8)
