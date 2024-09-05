@@ -10,4 +10,5 @@ chmod +x searchall5final.sh<br><br>
 Run command: bash searchall5final.sh<br><br>
 Enter 'q' to quit<br><br>
 
-![1000110449](https://github.com/lexterror/Search-Everything-Script-Android-Termux/assets/16135535/231a2141-056b-4e0c-a893-3ded37328738)
+![Screenshot_20240905-074851](https://github.com/user-attachments/assets/4b53d051-0c8d-4105-bb51-866a50ace6ac)
+)
