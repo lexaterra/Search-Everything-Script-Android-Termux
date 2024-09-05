@@ -10,5 +10,4 @@ chmod +x searchall5final.sh<br><br>
 Run command: bash searchall5final.sh<br><br>
 Enter 'q' to quit<br><br>
 
-![Screenshot_20240905-074851](https://github.com/user-attachments/assets/4b53d051-0c8d-4105-bb51-866a50ace6ac)
-)
+![Screenshot_20240905-162620](https://github.com/user-attachments/assets/84a2ae97-c2f2-4510-85a9-af34ff0199c0)
