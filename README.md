@@ -10,4 +10,4 @@ chmod +x searchProX.sh<br><br>
 Run command: bash searchProX.sh<br><br>
 Enter 'q' to quit<br><br>
 
-![Screenshot_20240906-000639](https://github.com/user-attachments/assets/73e72ea8-0aae-4cbc-978a-b3110950990b)
+![1000565054](https://github.com/user-attachments/assets/77698602-f0d1-427b-96bd-aaffaaf376d1)
